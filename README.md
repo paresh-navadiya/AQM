@@ -34,4 +34,3 @@ Used MVVM design pattern.
 
 ##### Code Coverage
 <img width="641" alt="AQI-Code-Coverage" src="https://user-images.githubusercontent.com/1125736/144712043-6463bff9-35dd-4596-b54b-29449d8e0d39.png">
-
