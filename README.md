@@ -4,14 +4,17 @@ Demo project for the air quality monitoring using MVVM in Swift
 # Screens
 
 ### Air Quality Index (Cities)
+
 <img width="320" height="692" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144715032-5f4a630d-cfd6-4629-bf02-d6f962510aa1.gif">
-<!-- <img width="320" height="692" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144711876-5f520557-dc9c-4c0a-8a37-0c22468f345b.png">
- -->
+<!-- <img width="320" height="692" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144711876-5f520557-dc9c-4c0a-8a37-0c22468f345b.png"> -->
+
 ### Realtime Graph
+
 <img width="746" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144715036-de2b4190-8740-4dbd-8f87-9090a143e19e.gif">
-<!-- <img width="746" alt="Realtime-graph-AQI" src="https://user-images.githubusercontent.com/1125736/144711887-fd699cb6-915f-4bee-90fc-d062bc2ecff4.png">
- -->
+<!-- <img width="746" alt="Realtime-graph-AQI" src="https://user-images.githubusercontent.com/1125736/144711887-fd699cb6-915f-4bee-90fc-d062bc2ecff4.png"> -->
+
 ### Air Quality Index value range its color info
+
 <img width="746" alt="AQI Info" src="https://user-images.githubusercontent.com/1125736/144712300-7ee6d4f2-5de9-4bb9-a06d-e06a89457af5.png">
 
 # Details
