@@ -1,10 +1,10 @@
 # AQM (Air Quality Monitoring)
 Demo project for the air quality monitoring using MVVM in Swift
 
-# Example
+# Screens
 
 ### Air Quality Index (Cities)
-<img width="585" height="1266" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144711876-5f520557-dc9c-4c0a-8a37-0c22468f345b.png">
+<img width="320" height="692" alt="Air Quality Index List" src="https://user-images.githubusercontent.com/1125736/144711876-5f520557-dc9c-4c0a-8a37-0c22468f345b.png">
 
 ### Realtime Graph
 <img width="746" alt="Realtime-graph-AQI" src="https://user-images.githubusercontent.com/1125736/144711887-fd699cb6-915f-4bee-90fc-d062bc2ecff4.png">
